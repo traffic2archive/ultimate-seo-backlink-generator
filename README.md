@@ -29,4 +29,4 @@ You can preview the tool directly by opening `index.html` in your browser.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/ultimate-seo-backlink-generator.git
+   git clone https://github.com/traffic2archive/ultimate-seo-backlink-generator.git
